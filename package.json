@@ -1,0 +1,23 @@
+{
+  "name": "e2e-automation-playwright-film-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenhuyen/e2e-automation-playwright-film-booking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenhuyen/e2e-automation-playwright-film-booking/issues"
+  },
+  "homepage": "https://github.com/kenhuyen/e2e-automation-playwright-film-booking#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0",
+    "dotenv": "^17.4.2"
+  }
+}
